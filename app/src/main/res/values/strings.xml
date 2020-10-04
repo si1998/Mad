@@ -52,6 +52,4 @@
     <string name="phone_error">ernter phone number</string>
     <string name="password_error">ernter password</string>
     <string name="error_invalid_password">enter valid password</string>
-
-
 </resources>
