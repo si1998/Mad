@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114319734095",
+    "firebase_url": "https://cool-cutz.firebaseio.com",
+    "project_id": "cool-cutz",
+    "storage_bucket": "cool-cutz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114319734095:android:a95c2ee325b9759775013a",
+        "android_client_info": {
+          "package_name": "com.example.coolcutz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114319734095-o0403n3ma9op736br8ero1vqo2b9pv0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coolcutz",
+            "certificate_hash": "68a014f6d2285291c23b5ef5be19658f8b88af1a"
+          }
+        },
+        {
+          "client_id": "114319734095-rpf80l36dqh85la8il7vjoa27lqaq2di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwpr3TlRkmvzJ7M3PUVp90fzkbzhXLS0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114319734095-rpf80l36dqh85la8il7vjoa27lqaq2di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191002558670",
+    "firebase_url": "https://coolcutz-7f5d8.firebaseio.com",
+    "project_id": "coolcutz-7f5d8",
+    "storage_bucket": "coolcutz-7f5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191002558670:android:81e1111eeda2a0f737109f",
+        "android_client_info": {
+          "package_name": "com.example.coolcutz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191002558670-d5mogpl0p12ip3hnaqi1isqmrfmuc4kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmDYXjzEsjgNbZeZNxGoYj8Z2DNAC2VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191002558670-d5mogpl0p12ip3hnaqi1isqmrfmuc4kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

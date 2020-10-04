@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Cool Cutz</string>
+    <string name="btn1">About Us</string>
+    <string name="btn2">Services</string>
+    <string name="btn3">Book App</string>
+    <string name="btn4">My App</string>
+    <string name="btn5">Contact Us</string>
+    <string name="btn6">Location</string>
+    <string name="btn7">GALLERY</string>
+    <string name="btn8">FEEDBACK</string>
+    <string name="btn9">SOCILIZATION</string>
+    <string name="txt1">Cool CutZ...</string>
+    <string name="txt2">Gallary</string>
+    <string name="txt3">COOL CUTz..</string>
+    <string name="txt4">Register</string>
+    <string name="txt5"></string>
+    <string name="txt6"></string>
+    <string name="txt7"></string>
+    <string name="txt8"></string>
+    <string name="btn10">REGISTER</string>
+    <string name="txt9">Hair Cut and Style</string>
+    <string name="txt10">Hair Coloring</string>
+    <string name="txt11">Makeup</string>
+    <string name="txt12">Body Massage</string>
+    <string name="txt13">Services</string>
+    <string name="btn11">BOOK</string>
+    <string name="btn12">BOOK</string>
+    <string name="btn13">BOOK</string>
+    <string name="btn14">BOOK</string>
+    <string name="btn15">LogIN</string>
+    <string name="btn16">REGISTER</string>
+    <string name="txt14">LogIn</string>
+    <string name="txt15"></string>
+    <string name="txt16"></string>
+    <string name="btn17"></string>
+    <string name="btn18">LogIn</string>
+    <string name="hintphone"></string>
+    <string name="hintpw"></string>
+    <string name="hintid"></string>
+    <string name="txt17">The time to relax...!</string>
+    <string name="txt18">Update Details</string>
+    <string name="btn20">Delete Details</string>
+    <string name="btn21">Updated</string>
+    <string name="hintID"></string>
+    <string name="hiname"></string>
+    <string name="himail"></string>
+    <string name="hiphone"></string>
+    <string name="hipassword"></string>
+    <string name="error_invalid_email">ernter valid Email</string>
+    <string name="email_error">enter email</string>
+    <string name="name_error">enter name</string>
+    <string name="phone_error">ernter phone number</string>
+    <string name="password_error">ernter password</string>
+    <string name="error_invalid_password">enter valid password</string>
+
+
+</resources>
