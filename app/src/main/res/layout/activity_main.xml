@@ -171,10 +171,10 @@
         android:id="@+id/imageView28"
         android:layout_width="78dp"
         android:layout_height="73dp"
-        android:layout_marginBottom="232dp"
+        android:layout_marginBottom="216dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.892"
+        app:layout_constraintHorizontal_bias="0.882"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/llllllllll" />
 
@@ -257,7 +257,7 @@
         android:id="@+id/button17"
         android:layout_width="112dp"
         android:layout_height="40dp"
-        android:layout_marginTop="696dp"
+        android:layout_marginTop="688dp"
         android:background="#3F4042"
         android:text="@string/btn8"
         android:textColor="#FBF9F9"

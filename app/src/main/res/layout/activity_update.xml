@@ -121,7 +121,7 @@
 
     <Button
         android:id="@+id/button15"
-        android:layout_width="92dp"
+        android:layout_width="119dp"
         android:layout_height="48dp"
         android:background="#3F4042"
         android:text="@string/btn21"
